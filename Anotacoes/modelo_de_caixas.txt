@@ -1,0 +1,21 @@
+MODELO DE CAIXAS (HTML)
+
+--> podem haver caixas dentro de caixas (aninhamento)
+--> todo elemento visível dentro da tela é uma caixa
+--> anatomia de uma caixa...
+	height  (altura)
+	width   (largura) 
+	border  (borda que fica em volta do conteúdo) 
+	padding (espaço entre o border e o conteúdo)
+	margin  (é como o padding mas preenche um espaço externo)
+--> tipos de caixa...
+	box-level	(div, h1-h6, p, main, header, nav, article, aside, footer, form, video)
+	inline-level	(span, a, code, small, strong, em, sup-sub, label, button, input, select)
+
+
+
+
+
+
+	
+

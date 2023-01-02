@@ -1,0 +1,159 @@
+@font-face {
+    font-family: "idroid";
+    src: url("pacote-projeto-d010/fontes/idroid.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    background-color: rgb(236, 205, 165);
+}
+
+header {
+    color: white;
+    height: 210px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(to bottom, rgb(29, 161, 84), rgb(10, 82, 40));
+    display: block;    
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px
+}
+
+header > h1 {
+    margin-top: 0px;
+    margin-bottom: 37px;
+    text-align: center;
+    text-shadow: 1px 1px 2px rgb(2 49 2);
+    padding-top: 26px;
+}
+
+header > h4 {
+    text-align: center;
+    text-shadow: 1px 1px 2px rgb(2, 49, 2);
+}
+
+header > nav {
+    padding: 17px 0px 17px 20px;
+}
+
+header > nav > a {
+    color:rgb(61, 194, 127);
+    text-decoration: none;
+    margin: 30px 0px 30px 0px;
+    padding: 15px 30px 15px 30px;
+}
+
+header > nav > a:hover {
+    color: rgb(10, 82, 40);
+    background-color: aquamarine;
+    border-radius: 5px;
+    border: 10px 10px;
+}
+
+main {
+    background-color: white;
+    /*height: 100vh;*/
+    padding-top: 1px;
+    padding-bottom: 0px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 0px 0px 20px 20px;
+    box-shadow: 5px 5px 8px rgb(175, 149, 115);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+main > h1 {
+    color: rgb(10, 82, 40);
+    font-family: idroid;
+}
+
+main > h2 {
+    color: rgb(10, 82, 40);
+    font-family: idroid;
+    background-image: linear-gradient(to right,  rgb(119, 218, 160),  rgb(255, 255, 255));
+    padding-left: 10px;
+}
+
+main > p {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    line-height: 25px;
+}
+
+main > p > a {
+    color: rgb(10, 82, 40);
+    background-color:  rgb(119, 218, 160);
+    text-decoration: none;
+    font-weight: bold;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+.cor_palavra {
+    color: rgb(10, 82, 40);
+    font-weight: bold;
+}
+
+main > #primeira_div {
+    background-color: rgb(10, 82, 40);
+    margin: 0px -20px 30px -20px;
+    padding: 20px;
+    padding-bottom: 58%;
+    position: relative;
+}
+
+#primeira_div > iframe {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 90%;
+}
+
+main > #segunda_div {
+    text-align: justify;
+    border-radius: 10px 10px 10px 10px;
+    background-color: rgb(119, 218, 160);    
+    box-shadow: 4px 4px 7px rgb(179, 179, 179);
+}
+
+main > #segunda_div > #div_listas {
+    text-align: center;
+}
+
+main > #segunda_div > #div_listas > div {
+    display: inline-block;
+    text-align: left;
+} 
+
+main > #segunda_div > h2 {
+    color: white;
+    border-radius: 10px 10px 0px 0px;
+    background-color: rgb(11, 94, 46);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+}
+
+main > #segunda_div > p {
+    padding-left: 30px;
+    padding-right: 30px;
+    line-height: 25px;
+}
+
+#terceira_div {
+    color: white;
+    background-color: rgb(11, 94, 46);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: -16px;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+
+#terceira_div > p {
+    text-align: center;
+    padding-top: 1px;
+}

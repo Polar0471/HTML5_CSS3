@@ -1,0 +1,31 @@
+CAPÍTULO 13 AULA 03
+
+Círculo cromático --> importante para o estudo de harmonia de cores;
+
+Cores Primárias   =   amarelo, vermelho e azul
+Cores Secundárias =   laranja, violeta e verde
+Cores Terciárias  =   toda cor gerada a partir da mistura de cores primárias e secundárias (tons pásteis)
+
+Cores Complementares = escolha uma cor no círculo cromático, a cor oposto a ela estrá do outro lado do círculo cromático
+Cores Análogas       = cores que estão do lado da cor escolhida no círculo cromático
+Cores Análogas Relacionadas = escolha um cor e pegue somente uma cor análoga do lado desta, depois pule uma cor e selecione a próxima do círculo cromático
+Cores Intercaladas   = escolha uma cor, pule uma cor análoga e pegue a próxima, depois pule uma cor novamente e selecione a próxima
+Cores Triádicas      = selecione as cores no círculo cromático, de maneira que formem um triângulo equilátero
+Cores em quadrado    
+Cores Tetrádicas 
+Monocromia           = altere a saturação e o brilho da cor escolhida (efeito degradê)
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
