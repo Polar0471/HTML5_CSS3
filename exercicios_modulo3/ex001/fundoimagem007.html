@@ -8,14 +8,24 @@
     <style>
         /*ao alinhar verticalmente é necessária a presença de um container e de um conteúdo*/
         #container {
+            /*
+            position --> relative
+            */
+            background-image: url('');
+            position: relative;
             height: 500px;
             padding: 10px;
             background-color: purple;
         }
 
         #conteudo {
+            position: absolute;
             height: 200px;
+            width: 400px;
             background-color: yellow;
+
+            left: 50%;
+            top: 50%;
         }
     </style>
 </head>

@@ -1,0 +1,26 @@
+TESTE DE APIs COM POSTMAN
+
+SWAGGER --> ferramenta utilizada para fazer a documentacão de api
+ferramenta usada para manipular api's rest
+EndPoint = uri
+
+Os testes serão realizados por meio do uso do protocolo HTTP (GET, POST, PUT, PATCH, DELETE)
+PUT   --> vc usa para atualizar todo o elemento
+PATCH --> vc usa para atualizar parcialmente o elemento
+
+200 (tudo deu certo)
+400 (erro de cliente)
+500 (erro de servidor)
+
+SUGESTÕES DE TESTES QUE TU PODES FAZER
+ - Validacão dos dados de retorno
+ - Validacão dos headers da resposta
+ - Validar se a resposta está de acordo
+ - Validade se a estrutura do JSON ou XML está correta
+ - Validar se quando der erro o status está de acordo com os códigos de erro
+
+OBS: A API que o Ada vai te passar não tem documentacão
+OBS: Pergunte pro Ada se ele quer que vc teste apenas requisicões http
+OBS: Pede pro Ada te mandar os principais EndPoints para tu poderes testar a api
+
+
