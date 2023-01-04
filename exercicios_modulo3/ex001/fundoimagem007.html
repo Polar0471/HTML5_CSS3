@@ -11,21 +11,32 @@
             /*
             position --> relative
             */
-            background-image: url('');
             position: relative;
-            height: 500px;
+            background-image: url('imagens/target001.png');
+            background-size: 100% 100%;
+            height: 96vh;
             padding: 10px;
             background-color: purple;
         }
 
         #conteudo {
+            /*
+            Após inserir o "position: absolute;" você poderá configura o left e o top 
+            */
             position: absolute;
+            background-image: url('imagens/target001.png');
+            background-size: 100% 100%;
             height: 200px;
             width: 400px;
             background-color: yellow;
 
             left: 50%;
             top: 50%;
+
+            /*
+            com o transform você pode mexer em qualquer caixa aplicando alguma alteração de transformação nela. Já com o translate você vai poder definir as coordenadas x e y do conteúdo
+            */
+            transform: translate(-50%, -50%);
         }
     </style>
 </head>
